@@ -15,5 +15,5 @@ public:
     float getX();
     float getY();
 };
-
+// comment
 #endif // RECTANGLE_H
