@@ -2,6 +2,7 @@
 #define RECTANGLE_H
 
 #include "QGraphicsScene"
+// test comment
 
 class Rectangle {
 private:
